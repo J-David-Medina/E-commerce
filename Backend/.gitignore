@@ -1,0 +1,51 @@
+# Archivos de compilación de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Entornos virtuales
+env/
+venv/
+
+# Base de datos de PostgreSQL
+*.db
+*.sqlite3
+*.psql
+
+# Archivos de configuración local
+*.env
+
+# Archivos de log
+*.log
+
+# Archivos de caché de Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.psql
+*.log
+local_settings.py
+
+# Archivos de configuraciones de IDEs
+.vscode/
+.idea/
+
+# Archivos de migraciones de Django
+migrations/
+
+# Archivos de pruebas
+*.cover
+*.tox
+*.nox
+*.coverage
+nosetests.xml
+coverage.xml
+*.hypothesis/
+
+# Dependencias
+*.egg-info/
+dist/
+build/
