@@ -1,6 +1,6 @@
-# Proyecto Full Stack eCommerce con Django, React y PostgreSQL
+# Proyecto Full Stack E-Commerce con Django, React y PostgreSQL
 
-Este es un proyecto **eCommerce** de pila completa construido con **Django** para el backend, **React** con **TypeScript** para el frontend y **PostgreSQL** como base de datos. La plataforma permite a los usuarios ver y comprar productos. Los usuarios registrados pueden gestionar su perfil, ver su historial de compras y los vendedores pueden listar nuevos productos para la venta.
+Este es un proyecto **e-commerce** de pila completa construido con **Django** para el backend, **React** con **TypeScript** para el frontend y **PostgreSQL** como base de datos. La plataforma permite a los usuarios ver y comprar productos. Los usuarios registrados pueden gestionar su perfil, ver su historial de compras y los vendedores pueden listar nuevos productos para la venta.
 
 ## Características
 
