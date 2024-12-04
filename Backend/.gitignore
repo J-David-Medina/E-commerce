@@ -33,9 +33,6 @@ local_settings.py
 .vscode/
 .idea/
 
-# Archivos de migraciones de Django
-migrations/
-
 # Archivos de pruebas
 *.cover
 *.tox
@@ -49,3 +46,4 @@ coverage.xml
 *.egg-info/
 dist/
 build/
+
