@@ -65,11 +65,11 @@ Este es un proyecto **e-commerce** de pila completa construido con **Django** pa
 2. Instala las dependencias:
 
     ```bash
-    npm run dev
+    npm install
     ```
 
 3. Inicia el servidor de desarrollo de React:
 
     ```bash
-    npm start 
+    npm run dev 
     ```
